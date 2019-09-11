@@ -1,0 +1,1 @@
+{"side-menu-widget":{"text-2":{"title":"Avas Driving School","text":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.\r\n\r\n[avas-social-media]","filter":true,"visual":true}}}

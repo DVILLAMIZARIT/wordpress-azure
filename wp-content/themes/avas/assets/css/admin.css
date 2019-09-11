@@ -1,0 +1,46 @@
+#info-verification_status, .redux-notice-field{background:#00af92;color:white;}
+.admin-color-fresh #redux-header .display_header span, .wp-customizer #redux-header .display_header span{color:#f5f5f5;}
+.redux-notice-field.redux-success{border-color:#00af92;}
+.redux-container-image_select .redux-image-select img{border-color: #f7f7f7}
+.redux-container .notice-yellow{background-color: #F0AD4E}
+input#redux_save{background: #00af92;border-color: #00af92;box-shadow: 0 1px 0 #00af92;text-shadow: none;}
+.redux-container .notice-yellow{color:#fff;text-shadow: none}
+.admin-color-fresh #redux-header, .wp-customizer #redux-header {background: #00AF92;border-color: #F3F3F3;}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections a, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections a {background: #A0A5AA;}
+.redux-container .redux-sidebar{background: #00AF92;}
+.redux-sidebar .redux-group-menu li a{color:#fff;opacity: 1}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a{background: #535b63;text-shadow: none;}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover{color: #00af92;background: #535b63;}
+.admin-color-fresh .noUi-connect, .wp-customizer .noUi-connect{background-color: #00AF92 !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #00AF92), color-stop(100%, #00AF92)) !important;
+  background-image: -webkit-linear-gradient(top, #00AF92, #00AF92) !important;}
+.admin-color-fresh .redux-container-switch .cb-enable.selected, .admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active, .wp-customizer .redux-container-switch .cb-enable.selected, .wp-customizer .redux-field-container .ui-buttonset .ui-state-active {
+    background-color: #00af92 !important;
+    background-image: -khtml-gradient(linear, left top, left bottom, from(#00d0ae), to(#00af92)) !important;
+    background-image: -moz-linear-gradient(top, #00d0ae, #00af92) !important;
+    background-image: -ms-linear-gradient(top, #00d0ae, #00af92) !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #008bce), color-stop(100%, #00af92)) !important;
+    background-image: -webkit-linear-gradient(top, #00d0ae, #00af92) !important;
+    background-image: -o-linear-gradient(top, #00d0ae, #00af92) !important;
+    background-image: -linear-gradient(top, #00d0ae, #00af92) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00d0ae', endColorstr='#00af92', GradientType=0) !important;
+    border-color: #00af92 !important;
+    border-color: #00b093 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img{border-color: #00af92;}
+.menu-item-bar .menu-item-handle{padding: 9px 20px;}
+.menu-item-settings{border:none;box-shadow: none;}
+.menu-top.menu-icon-generic.toplevel_page_Welcome .wp-menu-image:before{content: '';background-image: url('../img/icon.png');background-repeat: no-repeat;margin-top: 8px}
+.learn-press-advertisement-slider{display:none}
+.bddex-wel-wrap{padding:70px;}
+.bddex-wel-wrap h1{font-size: 50px; font-weight: 700}
+.bddex-wel-txt p{font-size: 20px; line-height: 1.75em}
+.redux-container .button-primary {
+    background: #00AF92 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    border: 1px solid #00AF92 !important;
+}
+.redux-container .button-primary:hover, .redux-container .button-primary:focus{background: #00A388 !important;}
