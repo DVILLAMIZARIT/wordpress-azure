@@ -1,0 +1,624 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">portfolio-item</custom-type>
+    <custom-type translate="0">team</custom-type>
+    <custom-type translate="0">service</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">translation_priority</taxonomy>
+    <taxonomy translate="0">portfolio-category</taxonomy>
+    <taxonomy translate="0">team-category</taxonomy>
+    <taxonomy translate="0">service-category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="ignore">_wp_page_template</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="bddex">
+      <key name="header_on_off"/>
+      <key name="sticky_header"/>
+      <key name="header_select"/>
+      <key name="business_space">
+        <key name="margin-top"/>
+        <key name="margin-right"/>
+        <key name="margin-bottom"/>
+        <key name="margin-left"/>
+        <key name="units"/>
+      </key>
+      <key name="email_time"/>
+      <key name="send_email"/>
+      <key name="working_time"/>
+      <key name="call_us"/>
+      <key name="address"/>
+      <key name="bddex-favicon">
+        <key name="url"/>
+      </key>
+      <key name="bddex_logo">
+        <key name="url"/>
+      </key>
+      <key name="logo_space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="top_head"/>
+      <key name="top_head_space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="wel_msg"/>
+      <key name="welcome_msg"/>
+      <key name="bddex-date"/>
+      <key name="phone_email"/>
+      <key name="phone"/>
+      <key name="email"/>
+      <key name="top_menu"/>
+      <key name="login_register"/>
+      <key name="top_socials"/>
+      <key name="sub-header-switch"/>
+      <key name="sub_h_title"/>
+      <key name="sub_h_post_title">
+        <key name="page"/>
+        <key name="post"/>
+        <key name="portfolio"/>
+        <key name="service"/>
+        <key name="team"/>
+      </key>
+      <key name="breadcrumbs"/>
+      <key name="sub_h_post_breadcrumbs">
+        <key name="page"/>
+        <key name="post"/>
+        <key name="portfolio"/>
+        <key name="service"/>
+        <key name="team"/>
+      </key>
+      <key name="sub-header-title-color"/>
+      <key name="sub-header-link-color"/>
+      <key name="sub-header-link-hover-color"/>
+      <key name="sub-header-separate-color"/>
+      <key name="sub-header-active-link-color"/>
+      <key name="sub-header-bg">
+        <key name="background-color"/>
+      </key>
+      <key name="sub_h_space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="menu_space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="menu-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+      </key>
+      <key name="menu_btn_switch"/>
+      <key name="menu_btn_txt"/>
+      <key name="menu_btn_url"/>
+      <key name="menu_btn_link_new_window"/>
+      <key name="menu_btn_padding">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="menu_btn_margin">
+        <key name="margin-top"/>
+        <key name="margin-right"/>
+        <key name="margin-bottom"/>
+        <key name="margin-left"/>
+        <key name="units"/>
+      </key>
+      <key name="search"/>
+      <key name="side_menu"/>
+      <key name="news_ticker"/>
+      <key name="news_ticker_bar_text"/>
+      <key name="service_post_type"/>
+      <key name="service-per-page"/>
+      <key name="service_sidebar"/>
+      <key name="service-brochure-title"/>
+      <key name="service-brochure-desc"/>
+      <key name="service_sidebar_img_form"/>
+      <key name="service-brochure-img">
+        <key name="url"/>
+      </key>
+      <key name="service_sidebar_pdf_btn"/>
+      <key name="service_sidebar_testimonial"/>
+      <key name="service-button-text"/>
+      <key name="service-slug"/>
+      <key name="service-cat-slug"/>
+      <key name="portfolio_post_type"/>
+      <key name="portfolio-per-page"/>
+      <key name="portfolio-gallery"/>
+      <key name="portfolio-meta-switch"/>
+      <key name="portfolio-time"/>
+      <key name="portfolio-author"/>
+      <key name="portfolio-button-text"/>
+      <key name="portfolio-slug"/>
+      <key name="portfolio-cat-slug"/>
+      <key name="team_post_type"/>
+      <key name="team-per-page"/>
+      <key name="team_skill"/>
+      <key name="project_experience"/>
+      <key name="team-profile-pic-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="team-hire-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="team_btn"/>
+      <key name="team-slug"/>
+      <key name="team-cat-slug"/>
+      <key name="woo_cart"/>
+      <key name="woo-product-per-row"/>
+      <key name="woo-product-per-page"/>
+      <key name="woo-sidebar-select"/>
+      <key name="blog-posts-per-page"/>
+      <key name="cat_limit"/>
+      <key name="tag_limit"/>
+      <key name="sidebar-select"/>
+      <key name="post-time"/>
+      <key name="post-author"/>
+      <key name="post-comment"/>
+      <key name="post-views"/>
+      <key name="social-share-header"/>
+      <key name="social-share-footer"/>
+      <key name="post-category"/>
+      <key name="post-tag"/>
+      <key name="related-posts"/>
+      <key name="comments-posts"/>
+      <key name="news_header_ads"/>
+      <key name="h_ads_switch"/>
+      <key name="head_ad_banner">
+        <key name="url"/>
+      </key>
+      <key name="head_ad_banner_link"/>
+      <key name="head_ad_banner_link_new_window"/>
+      <key name="head_ads_space">
+        <key name="margin-top"/>
+        <key name="margin-right"/>
+        <key name="margin-bottom"/>
+        <key name="margin-left"/>
+        <key name="units"/>
+      </key>
+      <key name="post_ads"/>
+      <key name="s_ads_switch"/>
+      <key name="s_ads_after_p"/>
+      <key name="s_ad_banner">
+        <key name="url"/>
+      </key>
+      <key name="s_ad_banner_link"/>
+      <key name="testimonial-switch"/>
+      <key name="social"/>
+      <key name="facebook"/>
+      <key name="twitter"/>
+      <key name="google-plus"/>
+      <key name="linkedin"/>
+      <key name="youtube"/>
+      <key name="instagram"/>
+      <key name="pinterest"/>
+      <key name="social-share"/>
+      <key name="social_share_post">
+        <key name="portfolio"/>
+        <key name="service"/>
+      </key>
+      <key name="footer_top"/>
+      <key name="footer_bg">
+        <key name="background-color"/>
+      </key>
+      <key name="footer_cols"/>
+      <key name="footer-menu"/>
+      <key name="back_top"/>
+      <key name="copyright"/>
+      <key name="body"/>
+      <key name="link-color"/>
+      <key name="link-hover-color"/>
+      <key name="h1-color"/>
+      <key name="h2-color"/>
+      <key name="h3-color"/>
+      <key name="h4-color"/>
+      <key name="h5-color"/>
+      <key name="h6-color"/>
+      <key name="top_head_border">
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="main_head_border">
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="top-menu-link-color"/>
+      <key name="top-menu-link-hover-color"/>
+      <key name="menu-link-color"/>
+      <key name="menu-link-hover-color"/>
+      <key name="menu-active-link-color"/>
+      <key name="menu-bar-color"/>
+      <key name="sub-menu-bg-color"/>
+      <key name="sub-menu-separator-color"/>
+      <key name="mega-menu-title-color"/>
+      <key name="mega-menu-link-color"/>
+      <key name="mega-menu-link-hover-color"/>
+      <key name="sticky-menu-link-color"/>
+      <key name="sticky-menu-link-hover-color"/>
+      <key name="sticky-menu-active-link-color"/>
+      <key name="menu-btn-bg-color"/>
+      <key name="menu-btn-bg-hov-color"/>
+      <key name="menu-btn-color"/>
+      <key name="menu-btn-hov-color"/>
+      <key name="menu-btn-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="menu-btn-bord-color"/>
+      <key name="menu-btn-bord-hov-color"/>
+      <key name="sticky-menu-btn-bg-color"/>
+      <key name="sticky-menu-btn-bg-hov-color"/>
+      <key name="sticky-menu-btn-color"/>
+      <key name="sticky-menu-btn-hov-color"/>
+      <key name="sticky-menu-btn-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="sticky-menu-btn-bord-color"/>
+      <key name="sticky-menu-btn-bord-hov-color"/>
+      <key name="side-menu-icon-color"/>
+      <key name="side-menu-icon-color-hover"/>
+      <key name="side-menu-icon-close-color"/>
+      <key name="side-menu-icon-close-color-hover"/>
+      <key name="side-menu-bg-color"/>
+      <key name="side-menu-text-color"/>
+      <key name="side-menu-link-color"/>
+      <key name="side-menu-link-hover-color"/>
+      <key name="side-menu-widget-title-color"/>
+      <key name="sticky-side-menu-icon-color"/>
+      <key name="sticky-side-menu-icon-color-hover"/>
+      <key name="mobile-menu-icon-color"/>
+      <key name="mobile-menu-icon-sticky-color"/>
+      <key name="footer-menu-color"/>
+      <key name="footer-menu-hover-color"/>
+      <key name="footer-menu-separator-color"/>
+      <key name="login_register_link"/>
+      <key name="login_register_hover"/>
+      <key name="welcome_msg_color"/>
+      <key name="date-color"/>
+      <key name="fon-email-color"/>
+      <key name="fon-email-hover-color"/>
+      <key name="news-ticker-title-color"/>
+      <key name="news-ticker-title-hover"/>
+      <key name="bddex_news_ticker_bar"/>
+      <key name="bddex_news_ticker_bar_arrow"/>
+      <key name="bddex_news_ticker_bar_color"/>
+      <key name="bddex_news_ticker_bar_icon"/>
+      <key name="service-title-color"/>
+      <key name="service-title-hover-color"/>
+      <key name="service-details-button-color"/>
+      <key name="service-details-button-hover-color"/>
+      <key name="service-details-button-border-color"/>
+      <key name="service-details-button-border-hover-color"/>
+      <key name="service-brochure-title-color"/>
+      <key name="service-brochure-border-color"/>
+      <key name="service-sidebar-button-bg-color"/>
+      <key name="service-sidebar-button-border-color"/>
+      <key name="service-sidebar-button-color"/>
+      <key name="service-sidebar-button-hover-color"/>
+      <key name="service-sidebar-button-border-hover-color"/>
+      <key name="team_skills"/>
+      <key name="team_profile"/>
+      <key name="team_img_overlay"/>
+      <key name="project_exp_img_overlay"/>
+      <key name="project-carousel-figcaption-h4-a"/>
+      <key name="project-carousel-figcaption-h4-a-hover"/>
+      <key name="da-thumbs-li-a-div-span"/>
+      <key name="portfolio-content-p"/>
+      <key name="portfolio-title"/>
+      <key name="portfolio-content-right-p"/>
+      <key name="portfolio-button-color"/>
+      <key name="portfolio-button-hover-color"/>
+      <key name="portfolio-progressbar-bg-color"/>
+      <key name="portfolio-progressbar-color"/>
+      <key name="sidebar-title-color"/>
+      <key name="sidebar-title-border-color"/>
+      <key name="sidebar-title-border-after-color"/>
+      <key name="sidebar-search-icon-color"/>
+      <key name="sidebar-search-icon-hover-color"/>
+      <key name="sidebar-category-color"/>
+      <key name="sidebar-category-hover-color"/>
+      <key name="sidebar-recent-post-color"/>
+      <key name="sidebar-recent-post-hover-color"/>
+      <key name="post_title_color"/>
+      <key name="post_title_hover_color"/>
+      <key name="post_bottom_border_hover_color"/>
+      <key name="post_time_color"/>
+      <key name="post_date_color"/>
+      <key name="post_readmore_color"/>
+      <key name="post_readmore_hover_color"/>
+      <key name="posts-title-color"/>
+      <key name="post-title-hover-color"/>
+      <key name="post_meta_icon_color"/>
+      <key name="post_comment_form_btn_bg_color"/>
+      <key name="post_comment_form_btn_br_color"/>
+      <key name="post_comment_form_btn_color"/>
+      <key name="post_comment_form_btn_font_hover_color"/>
+      <key name="post_comment_form_btn_br_hover_color"/>
+      <key name="form-control-focus"/>
+      <key name="cart-icon-color"/>
+      <key name="cart-icon-hover-color"/>
+      <key name="sticky_cart-icon-color"/>
+      <key name="sticky_cart-icon-hover-color"/>
+      <key name="woo_product_title_color"/>
+      <key name="woo_product_title_hover_color"/>
+      <key name="woo_btns_overlay_hover_color"/>
+      <key name="woo_btns_overlay_hover_border_color"/>
+      <key name="woo_btns_bg"/>
+      <key name="woo_btns_bd"/>
+      <key name="woo_btns_cr"/>
+      <key name="woo_btns_cr_hov"/>
+      <key name="woo_btns_bd_hov"/>
+      <key name="woo_single_product_title_color"/>
+      <key name="woo_single_product_sku_color"/>
+      <key name="woo_single_product_cat_color"/>
+      <key name="woo_single_product_cat_hov_color"/>
+      <key name="social-media-icon-header-color"/>
+      <key name="social-media-icon-header-color-hover"/>
+      <key name="social-media-icon-footer-color"/>
+      <key name="social-media-icon-shortcode-color"/>
+      <key name="social-media-border-color"/>
+      <key name="social_share_bg_clr"/>
+      <key name="social_share_brdr_clr"/>
+      <key name="social-share-title-color"/>
+      <key name="search-icon-color"/>
+      <key name="search-icon-hover-color"/>
+      <key name="sticky_earch-icon-color"/>
+      <key name="sticky_search-icon-hover-color"/>
+      <key name="search-icon-close-color"/>
+      <key name="search-icon-close-hover-color"/>
+      <key name="phone_email_icon_color"/>
+      <key name="back_top_bg"/>
+      <key name="back_top_border"/>
+      <key name="back_top_icon"/>
+      <key name="back_top_icon_hover"/>
+      <key name="back_top_bg_hover"/>
+      <key name="back_top_border_hover"/>
+      <key name="contact_form_button_bg_color"/>
+      <key name="contact_form_button_border_color"/>
+      <key name="contact_form_button_color"/>
+      <key name="contact_form_button_hover_color"/>
+      <key name="contact_form_button_border_color_hover"/>
+      <key name="contact_form_fields_border_color"/>
+      <key name="login_form_button_bg_color"/>
+      <key name="login_form_button_border_color"/>
+      <key name="login_form_button_color"/>
+      <key name="login_form_button_hover_color"/>
+      <key name="login_form_button_border_color_hover"/>
+      <key name="mailchimp-input-color"/>
+      <key name="mailchimp-input-bg"/>
+      <key name="mailchimp-input-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="mailchimp-input-space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="mailchimp-submit-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="mailchimp-submit-hover-border">
+        <key name="border-color"/>
+        <key name="border-style"/>
+        <key name="border-top"/>
+        <key name="border-bottom"/>
+        <key name="border-left"/>
+        <key name="border-right"/>
+      </key>
+      <key name="mailchimp_btn_bg_color"/>
+      <key name="mailchimp_btn_color"/>
+      <key name="mailchimp_btn_bg_hover_color"/>
+      <key name="mailchimp_btn_hover_color"/>
+      <key name="mailchimp-submit-space">
+        <key name="padding-top"/>
+        <key name="padding-right"/>
+        <key name="padding-bottom"/>
+        <key name="padding-left"/>
+        <key name="units"/>
+      </key>
+      <key name="mailchimp-submit-margin">
+        <key name="margin-top"/>
+        <key name="margin-right"/>
+        <key name="margin-bottom"/>
+        <key name="margin-left"/>
+        <key name="units"/>
+      </key>
+      <key name="pagination_bg_color"/>
+      <key name="pagination_color"/>
+      <key name="pagination_bg_hover_color"/>
+      <key name="pagination_hover_color"/>
+      <key name="pagination_active_bg_color"/>
+      <key name="pagination_active_color"/>
+      <key name="footer-bg-color"/>
+      <key name="footer-text-color"/>
+      <key name="footer-link-color"/>
+      <key name="footer-link-hover-color"/>
+      <key name="footer-widget-title-color"/>
+      <key name="footer-bottom-bg-color"/>
+      <key name="footer-border-color"/>
+      <key name="footer-copyright-text-color"/>
+      <key name="typography-body">
+        <key name="font-family"/>
+        <key name="font-weight"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-h1">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-h2">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-heigt"/>
+      </key>
+      <key name="typography-h3">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-h4">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-h5">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-h6">
+        <key name="font-family"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-top-header">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+      </key>
+      <key name="typography-sub-header">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="font-weight"/>
+      </key>
+      <key name="typography-breadcrumbs">
+        <key name="font-size"/>
+        <key name="font-family"/>
+      </key>
+      <key name="typography-welcome-msg">
+        <key name="font-size"/>
+        <key name="font-family"/>
+      </key>
+      <key name="menu-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+        <key name="text-transform"/>
+      </key>
+      <key name="sub-menu-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+        <key name="text-transform"/>
+      </key>
+      <key name="menu-btn-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+      </key>
+      <key name="side-menu-icon-font">
+        <key name="font-size"/>
+        <key name="line-height"/>
+      </key>
+      <key name="side-menu-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+        <key name="text-transform"/>
+      </key>
+      <key name="side-menu-text-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+      </key>
+      <key name="side-menu-widget-title-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+        <key name="text-transform"/>
+      </key>
+      <key name="sidebar-title-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+        <key name="text-transform"/>
+      </key>
+      <key name="posts-title-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+      </key>
+      <key name="footer-widget">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="line-height"/>
+        <key name="font-weight"/>
+      </key>
+      <key name="footer-copyright">
+        <key name="font-size"/>
+        <key name="font-family"/>
+        <key name="text-align"/>
+      </key>
+      <key name="footer-menu-font">
+        <key name="font-size"/>
+        <key name="font-family"/>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>
